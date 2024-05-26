@@ -1,9 +1,7 @@
 # Interaksi-Manusia-dan-Komputer-2024
 # Perancangan Desain Food Ordering App "pizieEz" berbasis Mobile
 
-Aprisa Idma Mutiara
-2209106001
-Informatika A 2022 
+Aprisa Idma Mutiara(2209106001)
 
 ## Instruksi Umum
 Pada ujian akhir semester ini, Anda diminta untuk membuat sebuah showcase IMK menggunakan
